@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=VCC Pin=DOWNLOAD-1
+Removed Pin From Net: NetName=GND Pin=DOWNLOAD-2
+Removed Pin From Net: NetName=RST Pin=DOWNLOAD-3
+Removed Pin From Net: NetName=DC Pin=DOWNLOAD-4
+Removed Pin From Net: NetName=DD Pin=DOWNLOAD-5
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=S1 Pin=S1-4
+Removed Pin From Net: NetName=GND Pin=S2-3
+Removed Pin From Net: NetName=S2 Pin=S2-4
+Removed Pin From Net: NetName=GND Pin=S3-3
+Removed Pin From Net: NetName=S3 Pin=S3-4
+Removed Pin From Net: NetName=GND Pin=S4-3
+Removed Pin From Net: NetName=S4 Pin=S4-4
+Removed Pin From Net: NetName=GND Pin=S5-3
+Removed Pin From Net: NetName=S5 Pin=S5-4
+Removed Pin From Net: NetName=GND Pin=S6-1
+Removed Pin From Net: NetName=S6 Pin=S6-2
+Removed Pin From Net: NetName=S6 Pin=S6-3
+Removed Pin From Net: NetName=GND Pin=S6-4
+Removed Pin From Net: NetName=VDD Pin=U1-0
+Removed Member From Class: ClassName=BT100_V1.1 Member=DOWNLOAD
+Added Component: Designator=JP2(ISCP-5PIN)
+Added Pin To Net: NetName=VCC Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=RST Pin=JP2-3
+Added Pin To Net: NetName=DC Pin=JP2-4
+Added Pin To Net: NetName=DD Pin=JP2-5
+Added Pin To Net: NetName=S6 Pin=S6-1
+Added Pin To Net: NetName=GND Pin=S6-2
+Added Member To Class: ClassName=BT100_V1.1 Member=Component JP2 debugger
+Added Room: Name=BT100_V1.1

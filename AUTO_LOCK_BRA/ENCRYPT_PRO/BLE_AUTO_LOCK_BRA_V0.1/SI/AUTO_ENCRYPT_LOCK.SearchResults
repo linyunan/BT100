@@ -1,0 +1,18 @@
+---- DOOR_OUTTIME_EVT Matches (17 in 2 files) ----
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):        osal_stop_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT);                //  超时
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):  //              osal_start_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT, 4000);
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source)://      osal_start_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT, 4000);    //       4秒无操作超时返回主菜单
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source)://    osal_stop_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT);    //       4秒无操作超时返回主菜单
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):      osal_stop_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT);    //       4秒无操作超时返回主菜单
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):  if( events & DOOR_OUTTIME_EVT )
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):    osal_stop_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT);
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):    return ( events ^ DOOR_OUTTIME_EVT );
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):      osal_stop_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT);
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source)://    osal_stop_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT);    //       4秒无操作超时返回主菜单
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):    osal_stop_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT);    //       4秒无操作超时返回主菜单
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source)://        osal_stop_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT);    //       4秒无操作超时返回主菜单
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):          osal_start_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT, 4000);    //       4秒无操作超时返回主菜单 20160919
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source)://                osal_start_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT, 4000);    //       4秒无操作超时返回主菜单
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):                    osal_stop_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT);
+Bleautolock.c (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source)://              osal_start_timerEx(bleAutoLock_TaskID, DOOR_OUTTIME_EVT, 4000);    //       4秒无操作超时返回主菜单
+Bleautolock.h (g:\bjq\auto_lock_bra\encrypt_pro\ble_auto_lock_bra\projects\ble\ble_auto_lock\source):#define DOOR_OUTTIME_EVT                        0x1000   //     按键操作超时处理

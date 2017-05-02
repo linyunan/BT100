@@ -1,0 +1,45 @@
+Removed Pin From Net: NetName=NetANT2_1 Pin=ANT2-2
+Removed Pin From Net: NetName=NetCN1_1 Pin=BAT-1
+Removed Pin From Net: NetName=GND Pin=BAT-2
+Removed Pin From Net: NetName=NetANT2_1 Pin=L3-2
+Removed Pin From Net: NetName=MODE-SW Pin=S1-1
+Removed Pin From Net: NetName=GND Pin=S1-2
+Removed Pin From Net: NetName=GND Pin=S2-3
+Removed Pin From Net: NetName=S2 Pin=S2-4
+Removed Pin From Net: NetName=GND Pin=S3-3
+Removed Pin From Net: NetName=S3 Pin=S3-4
+Removed Pin From Net: NetName=GND Pin=S4-3
+Removed Pin From Net: NetName=S4 Pin=S4-4
+Removed Pin From Net: NetName=GND Pin=S5-3
+Removed Pin From Net: NetName=S5 Pin=S5-4
+Removed Pin From Net: NetName=GND Pin=S6-1
+Removed Pin From Net: NetName=S6 Pin=S6-2
+Removed Pin From Net: NetName=S6 Pin=S6-3
+Removed Pin From Net: NetName=GND Pin=S6-4
+Removed Pin From Net: NetName=VDD Pin=U1-0
+Removed Member From Class: ClassName=นาห๘-160705 Member=BAT
+Change Component DesignItemId : Designator=S1 Old DesignItemId=CON2 New DesignItemId=SW-PB
+Change Component Footprint: Designator=S1 Old Footprint=2PAD-9 New Footprint=TS-030
+Change Component Footprint: Designator=C14 Old Footprint=PC7-*****-KQA0A_0402_YAGEO New Footprint=PC5-*****-**-0A_0603_TDK
+Change Component Comment : Designator=R14 Old Comment=20K New Comment=30K
+Change Component Comment : Designator=S1 Old Comment=CN1 New Comment=SW-PB
+Added Component: Designator=CN1(2PAD-9)
+Added Component: Designator=CN2(2PAD-9)
+Added Component: Designator=R15(PC7-*****-KQA0A_0402_YAGEO)
+Added Pin To Net: NetName=NetANT2_1 Pin=ANT2-1
+Added Pin To Net: NetName=NetCN1_1 Pin=CN1-1
+Added Pin To Net: NetName=GND Pin=CN1-2
+Added Pin To Net: NetName=MODE-SW Pin=CN2-1
+Added Pin To Net: NetName=GND Pin=CN2-2
+Added Pin To Net: NetName=NetANT2_1 Pin=R15-1
+Added Pin To Net: NetName=S1 Pin=S1-1
+Added Pin To Net: NetName=S6 Pin=S6-1
+Added Pin To Net: NetName=GND Pin=S6-2
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Pin To Net: NetName=NetL3_2 Pin=R15-2
+Added Net: Name=NetL3_2
+Change Class Name : Old Net Name=นาห๘-160705 New Net Name=BT100_V1.1
+Added Member To Class: ClassName=BT100_V1.1 Member=Component CN1
+Added Member To Class: ClassName=BT100_V1.1 Member=Component CN2 CN1
+Added Member To Class: ClassName=BT100_V1.1 Member=Component R15 0ohm
+Added Room: Name=BT100_V1.1

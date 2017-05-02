@@ -1,0 +1,6 @@
+---- Init_GlobleVar Matches (5 in 4 files) ----
+Bledoorlock.c (g:\bjq\ble_door_lock_bracelet\projects\ble\simplebleperipheral\source)://  Init_GlobleVar();
+Bledoorlock.c (g:\bjq\ble_door_lock_bracelet\projects\ble\simplebleperipheral\source):      Init_GlobleVar();
+Bledoorlock_Main.c (g:\bjq\ble_door_lock_bracelet\projects\ble\simplebleperipheral\source):  Init_GlobleVar();
+simpleBLE.c (g:\bjq\ble_door_lock_bracelet\projects\ble\simplebleperipheral\source):void Init_GlobleVar(void)
+simpleBLE.h (g:\bjq\ble_door_lock_bracelet\projects\ble\simplebleperipheral\source):void Init_GlobleVar(void);

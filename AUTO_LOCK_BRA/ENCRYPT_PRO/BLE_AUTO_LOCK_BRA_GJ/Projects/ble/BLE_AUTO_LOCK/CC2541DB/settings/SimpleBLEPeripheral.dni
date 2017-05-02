@@ -1,0 +1,36 @@
+[Stack]
+FillEnabled=0
+OverflowWarningsEnabled=1
+WarningThreshold=90
+SpWarningsEnabled=1
+WarnLogOnly=1
+UseTrigger=1
+TriggerName=main
+LimitSize=0
+ByteLimit=50
+[DebugChecksum]
+Checksum=1847772263
+[CallStack]
+ShowArgs=0
+[Disassembly]
+MixedMode=1
+[Log file]
+LoggingEnabled=_ 0
+LogFile=_ ""
+Category=_ 0
+[TermIOLog]
+LoggingEnabled=_ 0
+LogFile=_ ""
+[Breakpoints]
+Bp0=_ "STD_CODE" "{$PROJ_DIR$}.437.14" 0 0 0 0 "" 0 ""
+Bp1=_ "STD_CODE" "{$PROJ_DIR$}.140.4" 0 0 0 0 "" 0 ""
+Count=2
+[ChipconEmu]
+Stop timers on halt=0
+Leave target running=1
+[Aliases]
+A0=_ "D:\BLE_DOOR_LOCK_X1\Components\osal\common\OSAL_PwrMgr.c" ""
+A1=_ "G:\BJQ\PISCES_PROJECT\BLE_AUTO_LOCK_BRA\Components\hal\target\CC2540EB\hal_flash.c" ""
+A2=_ "G:\BJQ\PROJECT\BLE_DOOR_LOCK_v1.3\Components\osal\common\OSAL_PwrMgr.c" ""
+Count=3
+SuppressDialog=1

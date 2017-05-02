@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=ANT1 Old Footprint=IPEX New Footprint=ANT
+Change Component Library : Designator=ANT2 Old Library=Schlib.SCHLIB New Library=BT100_Project.SCHLIB
+Added Pin To Net: NetName=GND Pin=ANT1-2
+Added Pin To Net: NetName=GND Pin=ANT2-2
+Added Room: Name=BT100_V1.1

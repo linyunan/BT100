@@ -1,0 +1,11 @@
+---- SBP_LEDONOFF_EVT Matches (10 in 2 files) ----
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source)://        osal_set_event( simpleBLETaskId, SBP_LEDONOFF_EVT );
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source)://        osal_stop_timerEx( simpleBLETaskId, SBP_LEDONOFF_EVT );
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source):  if( events & SBP_LEDONOFF_EVT)
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source):      osal_start_timerEx( simpleBLETaskId, SBP_LEDONOFF_EVT, 100 );
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source):        osal_start_timerEx( simpleBLETaskId, SBP_LEDONOFF_EVT, 500 );
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source):        osal_start_timerEx( simpleBLETaskId, SBP_LEDONOFF_EVT, 500 );
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source):    return ( events ^ SBP_LEDONOFF_EVT );
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source)://          osal_set_event( simpleBLETaskId, SBP_LEDONOFF_EVT );
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source)://        osal_set_event( simpleBLETaskId, SBP_LEDONOFF_EVT );
+simpleBLECentral.h (g:\bjq\auto_lock_bra\encrypt_pro\ble_central\projects\ble\simpleblecentral\source):#define SBP_LEDONOFF_EVT			0x0080	 //	µÆÐ§¹û

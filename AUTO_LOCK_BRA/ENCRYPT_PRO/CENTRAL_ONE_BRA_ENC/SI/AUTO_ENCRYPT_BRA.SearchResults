@@ -1,0 +1,5 @@
+---- simpleBLECharVal Matches (4 in 1 files) ----
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\central_one_bra_enc\projects\ble\simpleblecentral\source):static uint8 simpleBLECharVal = 0;
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\central_one_bra_enc\projects\ble\simpleblecentral\source):            //req.value[0] = value;//p->simpleBLECharVal;
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\central_one_bra_enc\projects\ble\simpleblecentral\source):            //NPI_PrintValue("DoWrite :", p->simpleBLECharVal, 10);
+simpleBLECentral .c (g:\bjq\auto_lock_bra\encrypt_pro\central_one_bra_enc\projects\ble\simpleblecentral\source):      LCD_WRITE_STRING_VALUE( "Write sent:", simpleBLECharVal++, 10, HAL_LCD_LINE_1 );      

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=O1 Pin=JP1-1
+Removed Pin From Net: NetName=O2 Pin=JP1-2
+Removed Member From Class: ClassName=BT100_V1.1 Member=JP1
+Added Component: Designator=DJ(2PAD-9)
+Added Pin To Net: NetName=O1 Pin=DJ-1
+Added Pin To Net: NetName=O2 Pin=DJ-2
+Added Member To Class: ClassName=BT100_V1.1 Member=Component DJ SIP2

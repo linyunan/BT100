@@ -1,0 +1,439 @@
+Protel Design System Design Rule Check
+PCB File : G:\BJQ\蓝牙挂锁原理图\BT100_Project - 副本\BT100_V1.1.PCBDOC
+Date     : 2016/11/7
+Time     : 10:48:53
+
+Processing Rule : Hole Size Constraint (Min=0.025mm) (Max=2.54mm) (All)
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Disabled)(All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.2mm) (Max=1mm) (Preferred=0.28mm) (All)
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.2mm) (All),(All)
+   Violation between Track (-13.739mm,-16.522mm)(-13.702mm,-16.56mm)  Top Layer and 
+                     Pad U2-33(-13.739mm,-17.022mm)  Top Layer
+   Violation between Track (-13.702mm,-16.56mm)(-12.42mm,-16.56mm)  Top Layer and 
+                     Pad U2-33(-13.739mm,-17.022mm)  Top Layer
+   Violation between Track (-13.739mm,-17.022mm)(-13.708mm,-17.054mm)  Top Layer and 
+                     Pad U2-32(-13.739mm,-17.522mm)  Top Layer
+   Violation between Track (-13.708mm,-17.054mm)(-10.036mm,-17.054mm)  Top Layer and 
+                     Pad U2-32(-13.739mm,-17.522mm)  Top Layer
+   Violation between Track (-5.249mm,-17.071mm)(-5.249mm,-12.449mm)  Top Layer and 
+                     Pad C30-1(-6.064mm,-17.37mm)  Top Layer
+   Violation between Track (-5.249mm,-17.071mm)(-4.32mm,-18mm)  Top Layer and 
+                     Pad C30-1(-6.064mm,-17.37mm)  Top Layer
+   Violation between Track (-28.48mm,-27.81mm)(-23.58mm,-27.81mm)  Top Layer and 
+                     Pad ANT2-1(-23.58mm,-27.81mm)  Top Layer
+   Violation between Track (-1.44mm,-13.978mm)(-1.44mm,-12.753mm)  Top Layer and 
+                     Pad DJ-1(0.45mm,-12.87mm)  Top Layer
+   Violation between Track (-1.44mm,-12.753mm)(-1.426mm,-12.739mm)  Top Layer and 
+                     Pad DJ-1(0.45mm,-12.87mm)  Top Layer
+   Violation between Track (-1.426mm,-12.739mm)(-1.426mm,-11.25mm)  Top Layer and 
+                     Pad DJ-1(0.45mm,-12.87mm)  Top Layer
+   Violation between Track (-1.426mm,-11.25mm)(-1.426mm,-9mm)  Top Layer and 
+                     Pad DJ-2(0.45mm,-10.203mm)  Top Layer
+   Violation between Track (-26.758mm,-5.85mm)(-26.753mm,-5.855mm)  Top Layer and 
+                     Pad DD DC RST GND VCC-4(-26.37mm,-4.93mm)  Multi-Layer
+   Violation between Track (-27.63mm,-5.85mm)(-26.758mm,-5.85mm)  Top Layer and 
+                     Pad DD DC RST GND VCC-4(-26.37mm,-4.93mm)  Multi-Layer
+   Violation between Track (-26.753mm,-5.855mm)(-9.805mm,-5.855mm)  Top Layer and 
+                     Pad DD DC RST GND VCC-4(-26.37mm,-4.93mm)  Multi-Layer
+   Violation between Track (-17.589mm,-12.679mm)(-17.589mm,-11.16mm)  Top Layer and 
+                     Via (-17.089mm,-11.531mm) Top Layer to Bottom Layer
+   Violation between Track (-17.589mm,-12.021mm)(-17.589mm,-11.16mm)  Bottom Layer and 
+                     Via (-17.089mm,-11.531mm) Top Layer to Bottom Layer
+   Violation between Track (-28.141mm,-14.551mm)(-28.141mm,-7.171mm)  Top Layer and 
+                     Via (-28.62mm,-13.5mm) Top Layer to Bottom Layer
+   Violation between Track (-26.91mm,-14.76mm)(-23.31mm,-14.76mm)  Top Layer and 
+                     Via (-24.48mm,-14.22mm) Top Layer to Bottom Layer
+   Violation between Track (-1.44mm,-13.978mm)(-1.44mm,-12.753mm)  Top Layer and 
+                     Via (-1.98mm,-12.51mm) Top Layer to Bottom Layer
+   Violation between Track (-1.44mm,-12.753mm)(-1.426mm,-12.739mm)  Top Layer and 
+                     Via (-1.98mm,-12.51mm) Top Layer to Bottom Layer
+   Violation between Track (-1.426mm,-12.739mm)(-1.426mm,-11.25mm)  Top Layer and 
+                     Via (-1.98mm,-12.51mm) Top Layer to Bottom Layer
+   Violation between Track (-2.7mm,-13.23mm)(-1.98mm,-12.51mm)  Top Layer and 
+                     Via (-2.07mm,-13.32mm) Top Layer to Bottom Layer
+   Violation between Track (-1.44mm,-13.978mm)(-1.44mm,-12.753mm)  Top Layer and 
+                     Via (-2.07mm,-13.32mm) Top Layer to Bottom Layer
+   Violation between Track (-24.12mm,-10.71mm)(-20.25mm,-10.71mm)  Bottom Layer and 
+                     Via (-23.22mm,-11.25mm) Top Layer to Bottom Layer
+   Violation between Track (-13.739mm,-14.522mm)(-11.128mm,-14.522mm)  Top Layer and 
+                     Via (-12.24mm,-14.022mm) Top Layer to Bottom Layer
+   Violation between Track (-13.708mm,-17.054mm)(-10.036mm,-17.054mm)  Top Layer and 
+                     Via (-11.07mm,-16.47mm) Top Layer to Bottom Layer
+   Violation between Track (-23.85mm,-12.69mm)(-23.13mm,-13.41mm)  Top Layer and 
+                     Via (-23.265mm,-12.465mm) Top Layer to Bottom Layer
+   Violation between Track (-21.094mm,-19.98mm)(-18.99mm,-19.98mm)  Top Layer and 
+                     Via (-19.8mm,-19.44mm) Top Layer to Bottom Layer
+   Violation between Track (-7.65mm,-12.6mm)(-2.79mm,-12.6mm)  Bottom Layer and 
+                     Via (-5.85mm,-13.14mm) Top Layer to Bottom Layer
+   Violation between Track (-13.708mm,-17.054mm)(-10.036mm,-17.054mm)  Top Layer and 
+                     Via (-12.42mm,-16.56mm) Top Layer to Bottom Layer
+   Violation between Track (-13.739mm,-14.522mm)(-11.128mm,-14.522mm)  Top Layer and 
+                     Via (-11.618mm,-15.022mm) Top Layer to Bottom Layer
+   Violation between Via (-11.07mm,-14.58mm) Top Layer to Bottom Layer and 
+                     Via (-11.618mm,-15.022mm) Top Layer to Bottom Layer
+   Violation between Track (-11.052mm,-14.022mm)(-10.855mm,-13.825mm)  Top Layer and 
+                     Via (-11.07mm,-14.58mm) Top Layer to Bottom Layer
+   Violation between Track (-13.739mm,-14.022mm)(-11.052mm,-14.022mm)  Top Layer and 
+                     Via (-11.07mm,-14.58mm) Top Layer to Bottom Layer
+   Violation between Track (-11.618mm,-15.022mm)(-11.618mm,-14.138mm)  Bottom Layer and 
+                     Via (-11.07mm,-14.58mm) Top Layer to Bottom Layer
+   Violation between Track (-13.702mm,-16.56mm)(-12.42mm,-16.56mm)  Top Layer and 
+                     Via (-12.962mm,-16.022mm) Top Layer to Bottom Layer
+   Violation between Track (-13.739mm,-15.522mm)(-12.198mm,-15.522mm)  Top Layer and 
+                     Via (-12.962mm,-16.022mm) Top Layer to Bottom Layer
+   Violation between Track (-13.441mm,-16.221mm)(-13.441mm,-14.549mm)  Bottom Layer and 
+                     Via (-12.962mm,-16.022mm) Top Layer to Bottom Layer
+   Violation between Track (-13.102mm,-16.56mm)(-12.42mm,-16.56mm)  Bottom Layer and 
+                     Via (-12.962mm,-16.022mm) Top Layer to Bottom Layer
+   Violation between Track (-13.441mm,-16.221mm)(-13.102mm,-16.56mm)  Bottom Layer and 
+                     Via (-12.962mm,-16.022mm) Top Layer to Bottom Layer
+   Violation between Track (-22.68mm,-17.91mm)(-22.68mm,-15.39mm)  Top Layer and 
+                     Via (-22.14mm,-17.37mm) Top Layer to Bottom Layer
+   Violation between Track (-22.14mm,-17.37mm)(-21.647mm,-17.37mm)  Top Layer and 
+                     Via (-21.24mm,-17.64mm) Top Layer to Bottom Layer
+   Violation between Track (-21.647mm,-17.37mm)(-21.3mm,-17.022mm)  Top Layer and 
+                     Via (-21.24mm,-17.64mm) Top Layer to Bottom Layer
+   Violation between Track (-20.812mm,-18.022mm)(-19.939mm,-18.022mm)  Top Layer and 
+                     Via (-21.24mm,-17.64mm) Top Layer to Bottom Layer
+   Violation between Track (-21.06mm,-18.27mm)(-20.812mm,-18.022mm)  Top Layer and 
+                     Via (-21.24mm,-17.64mm) Top Layer to Bottom Layer
+   Violation between Track (-21.931mm,-17.161mm)(-14.339mm,-17.161mm)  Bottom Layer and 
+                     Via (-21.24mm,-17.64mm) Top Layer to Bottom Layer
+   Violation between Via (-21.69mm,-15.84mm) Top Layer to Bottom Layer and 
+                     Via (-21.728mm,-16.522mm) Top Layer to Bottom Layer
+   Violation between Track (2.765mm,-18.475mm)(12.854mm,-18.475mm)  Keep-Out Layer and 
+                     Via (3.78mm,-18.99mm) Top Layer to Bottom Layer
+   Violation between Track (-3.06mm,-11.382mm)(-3.06mm,-10.08mm)  Top Layer and 
+                     Via (-2.52mm,-10.71mm) Top Layer to Bottom Layer
+   Violation between Track (-5.249mm,-17.071mm)(-5.249mm,-12.449mm)  Top Layer and 
+                     Via (-4.68mm,-13.14mm) Top Layer to Bottom Layer
+   Violation between Track (-7.65mm,-12.6mm)(-2.79mm,-12.6mm)  Bottom Layer and 
+                     Via (-4.68mm,-13.14mm) Top Layer to Bottom Layer
+   Violation between Track (-26.753mm,-5.855mm)(-9.805mm,-5.855mm)  Top Layer and 
+                     Track (-24.84mm,-6.3mm)(-24.03mm,-7.11mm)  Top Layer
+   Violation between Track (-26.758mm,-5.85mm)(-26.753mm,-5.855mm)  Top Layer and 
+                     Track (-27.27mm,-6.3mm)(-24.84mm,-6.3mm)  Top Layer
+   Violation between Track (-26.753mm,-5.855mm)(-9.805mm,-5.855mm)  Top Layer and 
+                     Track (-27.27mm,-6.3mm)(-24.84mm,-6.3mm)  Top Layer
+   Violation between Track (-21.6mm,-13.41mm)(-20.988mm,-14.022mm)  Top Layer and 
+                     Track (-23.67mm,-13.86mm)(-21.78mm,-13.86mm)  Top Layer
+   Violation between Track (-20.988mm,-14.022mm)(-19.939mm,-14.022mm)  Top Layer and 
+                     Track (-21.78mm,-13.86mm)(-21.118mm,-14.522mm)  Top Layer
+   Violation between Track (-21.6mm,-13.41mm)(-20.988mm,-14.022mm)  Top Layer and 
+                     Track (-21.78mm,-13.86mm)(-21.118mm,-14.522mm)  Top Layer
+   Violation between Track (-24.3mm,-14.31mm)(-21.96mm,-14.31mm)  Top Layer and 
+                     Track (-21.78mm,-13.86mm)(-21.118mm,-14.522mm)  Top Layer
+   Violation between Track (-21.96mm,-14.31mm)(-21.248mm,-15.022mm)  Top Layer and 
+                     Track (-21.78mm,-13.86mm)(-21.118mm,-14.522mm)  Top Layer
+   Violation between Track (-21.118mm,-14.522mm)(-19.939mm,-14.522mm)  Top Layer and 
+                     Track (-21.96mm,-14.31mm)(-21.248mm,-15.022mm)  Top Layer
+   Violation between Track (-1.44mm,-13.978mm)(-1.44mm,-12.753mm)  Top Layer and 
+                     Track (-1.89mm,-19.08mm)(-1.89mm,-13.5mm)  Top Layer
+   Violation between Track (-1.44mm,-13.978mm)(0.445mm,-15.863mm)  Top Layer and 
+                     Track (-1.89mm,-19.08mm)(-1.89mm,-13.5mm)  Top Layer
+   Violation between Track (-2.07mm,-13.32mm)(-1.89mm,-13.5mm)  Top Layer and 
+                     Track (-1.44mm,-13.978mm)(-1.44mm,-12.753mm)  Top Layer
+   Violation between Track (-21.6mm,-13.41mm)(-20.988mm,-14.022mm)  Top Layer and 
+                     Track (-22.77mm,-12.96mm)(-21.15mm,-12.96mm)  Top Layer
+   Violation between Track (-23.13mm,-13.41mm)(-21.6mm,-13.41mm)  Top Layer and 
+                     Track (-22.77mm,-12.96mm)(-21.15mm,-12.96mm)  Top Layer
+   Violation between Track (-23.13mm,-13.41mm)(-21.6mm,-13.41mm)  Top Layer and 
+                     Track (-23.265mm,-12.465mm)(-22.77mm,-12.96mm)  Top Layer
+   Violation between Track (-15.589mm,-10.909mm)(-14.22mm,-9.54mm)  Top Layer and 
+                     Track (-14.13mm,-10.08mm)(-8.91mm,-10.08mm)  Top Layer
+   Violation between Track (-15.589mm,-10.909mm)(-14.22mm,-9.54mm)  Top Layer and 
+                     Track (-15.089mm,-11.039mm)(-14.13mm,-10.08mm)  Top Layer
+   Violation between Track (-15.589mm,-10.909mm)(-14.22mm,-9.54mm)  Top Layer and 
+                     Track (-15.089mm,-12.679mm)(-15.089mm,-11.039mm)  Top Layer
+   Violation between Track (-3.06mm,-11.382mm)(-3.06mm,-10.08mm)  Top Layer and 
+                     Track (-4.95mm,-12.42mm)(-3.51mm,-10.98mm)  Top Layer
+   Violation between Track (-10.238mm,-17.522mm)(-9.72mm,-18.04mm)  Top Layer and 
+                     Track (-13.708mm,-17.054mm)(-10.036mm,-17.054mm)  Top Layer
+   Violation between Track (-13.739mm,-17.522mm)(-10.238mm,-17.522mm)  Top Layer and 
+                     Track (-13.708mm,-17.054mm)(-10.036mm,-17.054mm)  Top Layer
+   Violation between Track (-13.739mm,-16.522mm)(-13.702mm,-16.56mm)  Top Layer and 
+                     Track (-13.739mm,-17.022mm)(-13.708mm,-17.054mm)  Top Layer
+   Violation between Track (-13.739mm,-17.522mm)(-10.238mm,-17.522mm)  Top Layer and 
+                     Track (-13.739mm,-17.022mm)(-13.708mm,-17.054mm)  Top Layer
+   Violation between Track (-13.702mm,-16.56mm)(-12.42mm,-16.56mm)  Top Layer and 
+                     Track (-13.739mm,-17.022mm)(-13.708mm,-17.054mm)  Top Layer
+   Violation between Track (-28.48mm,-27.81mm)(-23.58mm,-27.81mm)  Top Layer and 
+                     Track (-23.58mm,-27.81mm)(-21.82mm,-27.81mm)  Top Layer
+   Violation between Track (-3.24mm,-12.78mm)(-1.71mm,-11.25mm)  Top Layer and 
+                     Track (-2.52mm,-11.34mm)(-2.52mm,-10.71mm)  Top Layer
+   Violation between Track (-3.78mm,-12.6mm)(-2.52mm,-11.34mm)  Top Layer and 
+                     Track (-3.24mm,-12.78mm)(-1.71mm,-11.25mm)  Top Layer
+   Violation between Track (-3.78mm,-13.14mm)(-3.78mm,-12.6mm)  Top Layer and 
+                     Track (-4.68mm,-13.002mm)(-3.06mm,-11.382mm)  Top Layer
+   Violation between Track (-3.78mm,-12.6mm)(-2.52mm,-11.34mm)  Top Layer and 
+                     Track (-4.68mm,-13.002mm)(-3.06mm,-11.382mm)  Top Layer
+   Violation between Track (-3.06mm,-11.382mm)(-3.06mm,-10.08mm)  Top Layer and 
+                     Track (-3.78mm,-12.6mm)(-2.52mm,-11.34mm)  Top Layer
+   Violation between Track (-3.24mm,-14.58mm)(-3.24mm,-12.78mm)  Top Layer and 
+                     Track (-3.78mm,-12.6mm)(-2.52mm,-11.34mm)  Top Layer
+   Violation between Track (-3.51mm,-10.98mm)(-3.51mm,-9.81mm)  Top Layer and 
+                     Track (-3.06mm,-11.382mm)(-3.06mm,-10.08mm)  Top Layer
+   Violation between Track (-3.51mm,-10.98mm)(-3.51mm,-9.81mm)  Top Layer and 
+                     Track (-3.06mm,-10.08mm)(-2.34mm,-9.36mm)  Top Layer
+   Violation between Track (-3.51mm,-9.81mm)(-2.79mm,-9.09mm)  Top Layer and 
+                     Track (-2.34mm,-9.36mm)(-2.34mm,-3.24mm)  Top Layer
+   Violation between Track (-3.33mm,-3.042mm)(-2.79mm,-3.582mm)  Top Layer and 
+                     Track (-2.34mm,-9.36mm)(-2.34mm,-3.24mm)  Top Layer
+   Violation between Track (-2.79mm,-9.09mm)(-2.79mm,-3.582mm)  Top Layer and 
+                     Track (-2.34mm,-9.36mm)(-2.34mm,-3.24mm)  Top Layer
+   Violation between Track (-0.33mm,-11.26mm)(-0.33mm,-8.58mm)  Bottom Layer and 
+                     Track (0.02mm,-8.95mm)(0.02mm,-7.85mm)  Bottom Layer
+   Violation between Track (-0.81mm,-8.1mm)(-0.33mm,-8.58mm)  Bottom Layer and 
+                     Track (0.02mm,-8.95mm)(0.02mm,-7.85mm)  Bottom Layer
+   Violation between Track (-0.33mm,-11.26mm)(-0.33mm,-8.58mm)  Bottom Layer and 
+                     Track (0.02mm,-8.95mm)(0.97mm,-9.9mm)  Bottom Layer
+   Violation between Track (-2.79mm,-12.6mm)(-2.07mm,-13.32mm)  Bottom Layer and 
+                     Track (-2.34mm,-12.51mm)(-1.98mm,-12.51mm)  Bottom Layer
+   Violation between Track (-7.65mm,-12.6mm)(-2.79mm,-12.6mm)  Bottom Layer and 
+                     Track (-2.79mm,-12.06mm)(-2.34mm,-12.51mm)  Bottom Layer
+   Violation between Track (-2.79mm,-12.6mm)(-2.07mm,-13.32mm)  Bottom Layer and 
+                     Track (-2.79mm,-12.06mm)(-2.34mm,-12.51mm)  Bottom Layer
+   Violation between Track (-24.75mm,-9.36mm)(-24.75mm,-2.52mm)  Bottom Layer and 
+                     Track (-25.22mm,-4.93mm)(-25.11mm,-5.04mm)  Bottom Layer
+   Violation between Track (-24.75mm,-9.36mm)(-23.94mm,-10.17mm)  Bottom Layer and 
+                     Track (-25.11mm,-9.72mm)(-25.11mm,-5.04mm)  Bottom Layer
+   Violation between Track (-24.75mm,-9.36mm)(-24.75mm,-2.52mm)  Bottom Layer and 
+                     Track (-25.11mm,-9.72mm)(-25.11mm,-5.04mm)  Bottom Layer
+   Violation between Track (-20.16mm,-10.17mm)(-16.83mm,-13.5mm)  Bottom Layer and 
+                     Track (-24.12mm,-10.71mm)(-20.25mm,-10.71mm)  Bottom Layer
+   Violation between Track (-16.83mm,-13.5mm)(-13.32mm,-13.5mm)  Bottom Layer and 
+                     Track (-20.25mm,-10.71mm)(-16.83mm,-14.13mm)  Bottom Layer
+   Violation between Track (-20.16mm,-10.17mm)(-16.83mm,-13.5mm)  Bottom Layer and 
+                     Track (-20.25mm,-10.71mm)(-16.83mm,-14.13mm)  Bottom Layer
+   Violation between Track (-14.339mm,-17.161mm)(-12.591mm,-18.909mm)  Bottom Layer and 
+                     Track (-13.14mm,-33.57mm)(-13.14mm,-18.99mm)  Bottom Layer
+   Violation between Track (-14.339mm,-17.161mm)(-12.591mm,-18.909mm)  Bottom Layer and 
+                     Track (-14.49mm,-17.64mm)(-13.14mm,-18.99mm)  Bottom Layer
+   Violation between Track (-14.41mm,-16.522mm)(-12.06mm,-18.872mm)  Bottom Layer and 
+                     Track (-12.591mm,-33.219mm)(-12.591mm,-18.909mm)  Bottom Layer
+   Violation between Track (-14.49mm,-15.84mm)(-11.61mm,-18.72mm)  Bottom Layer and 
+                     Track (-12.06mm,-33.03mm)(-12.06mm,-18.872mm)  Bottom Layer
+   Violation between Track (-14.339mm,-17.161mm)(-12.591mm,-18.909mm)  Bottom Layer and 
+                     Track (-14.41mm,-16.522mm)(-12.06mm,-18.872mm)  Bottom Layer
+   Violation between Track (-14.49mm,-15.84mm)(-11.61mm,-18.72mm)  Bottom Layer and 
+                     Track (-14.41mm,-16.522mm)(-12.06mm,-18.872mm)  Bottom Layer
+   Violation between Track (-21.931mm,-17.161mm)(-14.339mm,-17.161mm)  Bottom Layer and 
+                     Track (-14.41mm,-16.522mm)(-12.06mm,-18.872mm)  Bottom Layer
+   Violation between Track (-21.728mm,-16.522mm)(-14.41mm,-16.522mm)  Bottom Layer and 
+                     Track (-14.49mm,-15.84mm)(-11.61mm,-18.72mm)  Bottom Layer
+   Violation between Track (-3.51mm,-14.58mm)(-2.97mm,-15.12mm)  Bottom Layer and 
+                     Track (-3.6mm,-13.95mm)(-2.61mm,-14.94mm)  Bottom Layer
+   Violation between Track (-2.97mm,-17.82mm)(-2.97mm,-15.12mm)  Bottom Layer and 
+                     Track (-3.6mm,-13.95mm)(-2.61mm,-14.94mm)  Bottom Layer
+   Violation between Track (-11.07mm,-14.58mm)(-3.51mm,-14.58mm)  Bottom Layer and 
+                     Track (-3.6mm,-13.95mm)(-2.61mm,-14.94mm)  Bottom Layer
+   Violation between Track (-2.61mm,-17.46mm)(-1.44mm,-18.63mm)  Bottom Layer and 
+                     Track (-2.97mm,-17.82mm)(-2.97mm,-15.12mm)  Bottom Layer
+   Violation between Track (-2.61mm,-17.46mm)(-2.61mm,-14.94mm)  Bottom Layer and 
+                     Track (-2.97mm,-17.82mm)(-2.97mm,-15.12mm)  Bottom Layer
+   Violation between Track (-2.61mm,-17.46mm)(-2.61mm,-14.94mm)  Bottom Layer and 
+                     Track (-3.51mm,-14.58mm)(-2.97mm,-15.12mm)  Bottom Layer
+   Violation between Track (-21.24mm,-17.64mm)(-14.49mm,-17.64mm)  Bottom Layer and 
+                     Track (-14.339mm,-17.161mm)(-12.591mm,-18.909mm)  Bottom Layer
+Rule Violations :114
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C16-2 (-9.41,-23.4mm) And Pad C15-2 (-9.41,-22.14mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-21.42,-34.38mm) And Via (-20.16,-34.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-21.42,-35.91mm) And Via (-20.16,-35.91mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C15-2 (-9.41,-22.14mm) And Pad C17-2 (-9.41,-20.88mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-21.42,-37.35mm) And Via (-20.16,-37.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C18-1 (-9.41,-24.66mm) And Pad C16-2 (-9.41,-23.4mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-2 (0.644,-22.765mm) And Pad U4-1 (0.644,-21.495mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-4 (0.644,-25.305mm) And Pad U4-3 (0.644,-24.035mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-14.13,-37.35mm) And Via (-12.78,-37.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-12.78,-37.35mm) And Via (-11.43,-37.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (11.7,-1.35mm) And Via (11.7,0mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-20.16,-34.38mm) And Via (-18.81,-34.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-20.16,-37.35mm) And Via (-18.81,-37.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-20.16,-35.91mm) And Via (-18.81,-35.91mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-10.35,-30.42mm) And Via (-9,-30.42mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (10.08,0mm) And Via (10.08,1.44mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-11.43,-37.35mm) And Via (-9.99,-37.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-19.89,-32.22mm) And Via (-18.45,-32.22mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-18.81,-37.35mm) And Via (-17.37,-37.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-15.66,-37.35mm) And Via (-15.66,-35.91mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-18.81,-35.91mm) And Via (-17.37,-35.91mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (11.7,0mm) And Via (11.7,1.44mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-18.81,-34.38mm) And Via (-17.37,-34.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-15.66,-35.91mm) And Via (-15.66,-34.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (11.7,-2.88mm) And Via (11.7,-1.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-10.35,-30.42mm) And Via (-10.35,-28.89mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (11.7,1.44mm) And Via (11.7,2.97mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-21.42,-32.22mm) And Via (-19.89,-32.22mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (10.08,1.44mm) And Via (10.08,2.97mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C14-2 (-22.05,-11.756mm) And Pad C13-2 (-20.43,-11.756mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C3-2 (-23.006,-5.76mm) And Pad C2-1 (-23.005,-7.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-9.99,-37.35mm) And Via (-8.28,-37.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U3-4 (-0.33,-15.666mm) And Pad C19-1 (-0.325,-17.46mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C31-1 (-21.926,-26.01mm) And Pad X2-4 (-21.848,-24.215mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C29-1 (-6.155,-15.48mm) And Pad C30-1 (-6.064,-17.37mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C18-1 (-9.41,-24.66mm) And Pad C34-2 (-8.73,-26.134mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C23-1 (-1.8,-16.705mm) And Pad C19-1 (-0.325,-17.46mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-9,-30.42mm) And Pad S1-2 (-6.87,-30.29mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C4-1 (-20.25,-1.12mm) And Pad C5-1 (-18.27,-1.655mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C32-1 (-9.845,-10.44mm) And Pad C12-2 (-9.304,-12.42mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R8-2 (-12.15,-22mm) And Pad C15-2 (-9.41,-22.14mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-15.3,-14.94mm) And Pad U2-1 (-14.589,-12.679mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C33-1 (-6.955,-19.68mm) And Pad C30-1 (-6.064,-17.37mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q1-C (8.361,-23.13mm) And Pad C35-2 (8.426,-26.28mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Fill on layer Top Layer (-23.076,-30.614mm) And Via (-21.42,-32.22mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C11-2 (-0.185,-2.644mm) And Pad C9-2 (3.145,-2.644mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C10-2 (9.907,-4.475mm) And Via (11.7,-2.88mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C36-2 (8.426,-29.7mm) And Pad C35-2 (8.426,-26.28mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R13-1 (-6.175,-4.68mm) And Pad Q3-E (-4.147,-3.224mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C2-1 (-23.005,-7.38mm) And Pad C1-1 (-19.76,-7.65mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad X2-4 (-21.848,-24.215mm) And Pad L4-1 (-18.27,-24.25mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C35-2 (8.426,-26.28mm) And Pad S4-2 (11.062,-27.471mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad X2-4 (-21.848,-24.215mm) And Pad X2-2 (-20.35,-21.827mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad L4-1 (-18.27,-24.25mm) And Pad C26-2 (-14.31,-24.25mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad CON1-7 (6.15,-3.643mm) And Pad C8-2 (7.191,-6.601mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (-25.84,-20.81mm) And Pad C28-1 (-22.645,-19.98mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R4-1 (6.167,1.668mm) And Via (10.08,1.44mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C25-1 (-15.66,-27.58mm) And Pad C26-2 (-14.31,-24.25mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C15-2 (-9.41,-22.14mm) And Pad U4-7 (-5.325,-22.765mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad BAT-2 (-14.523,1.44mm) And Pad U1-1 (-12.293,-1.74mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-4 (0.644,-25.305mm) And Pad S5-2 (3.95,-27.471mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad WD-2 (-4.983,1.44mm) And Pad Q3-E (-4.147,-3.224mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C24-1 (2.665,-8.01mm) And Pad C9-2 (3.145,-2.644mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad S6-2 (-3.162,-27.471mm) And Pad U4-4 (0.644,-25.305mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad DD DC RST GND VCC-2 (-26.37,-10.01mm) And Pad C2-1 (-23.005,-7.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-4 (0.644,-31.695mm) And Pad U4-4 (0.644,-25.305mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad R14-1 (-13.346,-7.208mm) And Pad U1-1 (-12.293,-1.74mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad S2-2 (3.95,-36.488mm) And Pad S3-2 (11.062,-36.488mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U4-3 (0.644,-24.035mm) And Pad U4-2 (0.644,-22.765mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-21.42,-37.35mm) And Via (-21.42,-35.91mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-15.66,-37.35mm) And Via (-14.13,-37.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-21.42,-35.91mm) And Via (-21.42,-34.38mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (10.08,0mm) And Via (11.7,0mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-21.42,-34.38mm) And Via (-21.42,-32.22mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Track on layer Top Layer (-23.58,-27.81mm) And Pad C31-1 (-21.926,-26.01mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C17-2 (-9.41,-20.88mm) And Pad C33-1 (-6.955,-19.68mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C9-2 (3.145,-2.644mm) And Pad CON1-7 (6.15,-3.643mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-10.35,-28.89mm) And Pad C34-2 (-8.73,-26.134mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad Q3-E (-4.147,-3.224mm) And Pad C11-2 (-0.185,-2.644mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C13-2 (-20.43,-11.756mm) And Pad C1-1 (-19.76,-7.65mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C30-1 (-6.064,-17.37mm) And Pad C23-1 (-1.8,-16.705mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C13-2 (-20.43,-11.756mm) And Via (-18.27,-14.94mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-1 (-14.589,-12.679mm) And Pad C12-2 (-9.304,-12.42mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad S5-2 (3.95,-27.471mm) And Pad C35-2 (8.426,-26.28mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C5-1 (-18.27,-1.655mm) And Pad U1-1 (-12.293,-1.74mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U5-4 (0.644,-31.695mm) And Pad S2-2 (3.95,-36.488mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Via (-17.37,-37.35mm) And Via (-15.66,-37.35mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C26-2 (-14.31,-24.25mm) And Pad R8-2 (-12.15,-22mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad CON1-7 (6.15,-3.643mm) And Pad C10-2 (9.907,-4.475mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C19-1 (-0.325,-17.46mm) And Pad U4-1 (0.644,-21.495mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad C12-2 (-9.304,-12.42mm) And Pad C29-1 (-6.155,-15.48mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U2-1 (-14.589,-12.679mm) And Pad R14-1 (-13.346,-7.208mm)
+   Violation between Un-Routed Net Constraint: Net GND Between Pad U1-1 (-12.293,-1.74mm) And Pad R13-1 (-6.175,-4.68mm)
+Rule Violations :93
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+   Violation between Track (-28.48mm,-27.81mm)(-23.58mm,-27.81mm)  Top Layer and 
+                     Pad ANT2-1(-23.58mm,-27.81mm)  Top Layer
+   Violation between Track (-28.48mm,-27.81mm)(-23.58mm,-27.81mm)  Top Layer and 
+                     Track (-23.58mm,-27.81mm)(-21.82mm,-27.81mm)  Top Layer
+Rule Violations :2
+
+Processing Rule : Room BT100_V1.1 (Bounding Region = (0mm, 0mm, 50.8mm, 25.4mm) (InComponentClass('BT100_V1.1'))
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on BottomLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+   Violation between Room Definition Between Component on TopLayer And Rule on TopLayer
+Rule Violations :82
+
+
+Violations Detected : 291
+Time Elapsed        : 00:00:01

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=S1 Pin=S1-4
+Added Component: Designator=S5(TS-030)
+Added Pin To Net: NetName=S1 Pin=S1-1
+Added Pin To Net: NetName=S5 Pin=S5-1
+Added Pin To Net: NetName=GND Pin=S5-2
+Added Member To Class: ClassName=BT100_V1.1 Member=Component S5 SW-PB

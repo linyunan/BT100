@@ -1,0 +1,5 @@
+Added Component: Designator=L3(PC5-*****-**-0A_0402_TDK)
+Added Pin To Net: NetName=NetC25_2 Pin=L3-1
+Added Pin To Net: NetName=NetL3_2 Pin=L3-2
+Added Member To Class: ClassName=BT100_V1.1 Member=Component L3 3nH
+Added Room: Name=BT100_V1.1

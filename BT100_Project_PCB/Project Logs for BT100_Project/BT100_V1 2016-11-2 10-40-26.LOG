@@ -1,0 +1,73 @@
+Removed Pin From Net: NetName=VCC Pin=DOWNLOAD-1
+Removed Pin From Net: NetName=GND Pin=DOWNLOAD-2
+Removed Pin From Net: NetName=RST Pin=DOWNLOAD-3
+Removed Pin From Net: NetName=DC Pin=DOWNLOAD-4
+Removed Pin From Net: NetName=DD Pin=DOWNLOAD-5
+Removed Pin From Net: NetName=GND Pin=S1-3
+Removed Pin From Net: NetName=S1 Pin=S1-4
+Removed Pin From Net: NetName=GND Pin=S2-3
+Removed Pin From Net: NetName=S2 Pin=S2-4
+Removed Pin From Net: NetName=GND Pin=S3-3
+Removed Pin From Net: NetName=S3 Pin=S3-4
+Removed Pin From Net: NetName=GND Pin=S4-3
+Removed Pin From Net: NetName=S4 Pin=S4-4
+Removed Pin From Net: NetName=GND Pin=S5-3
+Removed Pin From Net: NetName=S5 Pin=S5-4
+Removed Pin From Net: NetName=GND Pin=S6-1
+Removed Pin From Net: NetName=S6 Pin=S6-2
+Removed Pin From Net: NetName=S6 Pin=S6-3
+Removed Pin From Net: NetName=GND Pin=S6-4
+Removed Pin From Net: NetName=VDD Pin=U1-0
+Added Component: Designator=ANT1(IPEX)
+Added Component: Designator=C20(PC7-*****-KQA0A_0402_YAGEO)
+Added Component: Designator=C21(PC7-*****-KQA0A_0402_YAGEO)
+Added Component: Designator=C22(PC7-*****-KQA0A_0402_YAGEO)
+Added Component: Designator=C25(PC7-*****-KQA0A_0402_YAGEO)
+Added Component: Designator=C26(PC7-*****-KQA0A_0402_YAGEO)
+Added Component: Designator=C27(PC7-*****-KQA0A_0402_YAGEO)
+Added Component: Designator=JP2(ISCP-5PIN)
+Added Component: Designator=L2(PC5-*****-**-0A_0402_TDK)
+Added Component: Designator=L4(PC5-*****-**-0A_0402_TDK)
+Added Component: Designator=L5(PC5-*****-**-0A_0402_TDK)
+Added Component: Designator=R15(PC7-*****-KQA0A_0402_YAGEO)
+Added Pin To Net: NetName=NetANT1_1 Pin=ANT1-1
+Added Pin To Net: NetName=NetC20_1 Pin=C20-1
+Added Pin To Net: NetName=NetANT1_1 Pin=C20-2
+Added Pin To Net: NetName=NetC21_1 Pin=C21-1
+Added Pin To Net: NetName=NetC21_2 Pin=C21-2
+Added Pin To Net: NetName=NetC21_2 Pin=C22-1
+Added Pin To Net: NetName=NetC20_1 Pin=C22-2
+Added Pin To Net: NetName=GND Pin=C25-1
+Added Pin To Net: NetName=NetC25_2 Pin=C25-2
+Added Pin To Net: NetName=NetC26_1 Pin=C26-1
+Added Pin To Net: NetName=GND Pin=C26-2
+Added Pin To Net: NetName=NetC27_1 Pin=C27-1
+Added Pin To Net: NetName=NetC26_1 Pin=C27-2
+Added Pin To Net: NetName=VCC Pin=JP2-1
+Added Pin To Net: NetName=GND Pin=JP2-2
+Added Pin To Net: NetName=RST Pin=JP2-3
+Added Pin To Net: NetName=DC Pin=JP2-4
+Added Pin To Net: NetName=DD Pin=JP2-5
+Added Pin To Net: NetName=NetC20_1 Pin=L2-1
+Added Pin To Net: NetName=NetC25_2 Pin=L2-2
+Added Pin To Net: NetName=GND Pin=L4-1
+Added Pin To Net: NetName=NetC21_2 Pin=L4-2
+Added Pin To Net: NetName=NetC26_1 Pin=L5-1
+Added Pin To Net: NetName=NetC20_1 Pin=L5-2
+Added Pin To Net: NetName=NetANT2_1 Pin=R15-1
+Added Pin To Net: NetName=NetL3_2 Pin=R15-2
+Added Pin To Net: NetName=S6 Pin=S6-1
+Added Pin To Net: NetName=GND Pin=S6-2
+Added Member To Class: ClassName=BT100_V1.1 Member=Component ANT1 ANT
+Added Member To Class: ClassName=BT100_V1.1 Member=Component C20 20P
+Added Member To Class: ClassName=BT100_V1.1 Member=Component C21 18p
+Added Member To Class: ClassName=BT100_V1.1 Member=Component C22 1p
+Added Member To Class: ClassName=BT100_V1.1 Member=Component C25 1p
+Added Member To Class: ClassName=BT100_V1.1 Member=Component C26 1p
+Added Member To Class: ClassName=BT100_V1.1 Member=Component C27 18p
+Added Member To Class: ClassName=BT100_V1.1 Member=Component JP2 debugger
+Added Member To Class: ClassName=BT100_V1.1 Member=Component L2 1nH
+Added Member To Class: ClassName=BT100_V1.1 Member=Component L4 2nH
+Added Member To Class: ClassName=BT100_V1.1 Member=Component L5 2nH
+Added Member To Class: ClassName=BT100_V1.1 Member=Component R15 0ohm
+Added Room: Name=BT100_V1.1

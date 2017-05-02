@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=BAT NewDesignator=CN1
+Change Component Designator: OldDesignator=S1 NewDesignator=CN2
+Added Component: Designator=S1(TS-030)
+Added Pin To Net: NetName=S1 Pin=S1-1
+Added Pin To Net: NetName=GND Pin=S1-2
+Added Member To Class: ClassName=BT100_V1.1 Member=Component CN2 CN1
+Added Room: Name=BT100_V1.1
